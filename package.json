@@ -1,0 +1,14 @@
+{
+  "name": "BDDSAUCE",
+  "version": "1.0.0",
+  "description": "automation project BDD by cypress",
+  "main": "index.js",
+  "author": "Arza",
+  "license": "MIT",
+  "dependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "^15.1.5",
+    "cypress": "^12.8.1",
+    "cypress-cucumber-preprocessor": "^4.3.1",
+    "prettier": "^2.8.6"
+  }
+}
